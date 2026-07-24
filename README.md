@@ -8,7 +8,18 @@ Nova is not a browser with an AI assistant bolted on. It's a Chromium browser wh
 interface is natural language. Type — or say — what you want, and Nova either navigates,
 answers, or dispatches an autonomous agent that clicks, types, and browses on your behalf.
 
-`Electron` · `React` · `TypeScript` · `Chromium (WebContentsView)` · `Tailwind` · `Framer Motion` · `sql.js`
+<br/>
+
+![Status](https://img.shields.io/badge/status-v0.1_Genesis-ff6b8b?style=flat-square)
+![Electron](https://img.shields.io/badge/Electron-33-47848F?style=flat-square&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6_strict-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Chromium](https://img.shields.io/badge/Chromium-WebContentsView-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Type Check](https://img.shields.io/badge/type--check-0_errors-43e0b0?style=flat-square)
+![Platforms](https://img.shields.io/badge/platforms-Windows_·_macOS_·_Linux-7c5cff?style=flat-square)
+![AI Providers](https://img.shields.io/badge/AI-OpenAI_·_Claude_·_Gemini_·_Grok_·_DeepSeek_·_Ollama-101016?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
