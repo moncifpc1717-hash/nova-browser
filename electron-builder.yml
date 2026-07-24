@@ -1,0 +1,28 @@
+appId: com.novalabs.browser
+productName: Nova
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - out/**/*
+  - resources/**/*
+  - '!**/*.map'
+asar: true
+mac:
+  category: public.app-category.productivity
+  target:
+    - dmg
+    - zip
+  hardenedRuntime: true
+win:
+  target:
+    - nsis
+    - portable
+linux:
+  target:
+    - AppImage
+    - deb
+  category: Network
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
